@@ -1,2 +1,2 @@
-# first-repo
-Coursera project
+# Kotlin-prjs
+JetBrains accademy learning Kotlin projects
